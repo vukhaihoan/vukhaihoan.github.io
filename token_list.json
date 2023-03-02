@@ -2884,6 +2884,17 @@
       }
     },
     {
+      "chainId": 84531,
+      "address": "0xdCe539e053858943cd0E9AC5179fdd5A3ffC10dF",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+      }
+    },
+    {
       "chainId": 10,
       "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
       "name": "Tether USD",
